@@ -26,7 +26,7 @@ Lastly, this includes a way to know what are the best products to resale.
 * I call it the **PelMer index** and it's able to give a single value to compare between each good without there being any relation between them. 
 * **Universal Measurement:** It can measure how good is the resale of windbreakers, vapes, or watches with just a couple of variables.
 
-> 📝 *Note: The explanation of the index is long and I'm lazy so I'm not gonna explain it. It's not difficult at all so y'all will understand as you see how it works.*
+>  *Note: The explanation of the index is long and I'm lazy so I'm not gonna explain it. It's not difficult at all so y'all will understand as you see how it works.*
 
 ---
 
@@ -35,12 +35,20 @@ Lastly, this includes a way to know what are the best products to resale.
 If you want to **start reselling to make a couple of bucks** or you already do it, you can use this to make accounting and understanding of your business easier. 
 
 ###  Premium & Custom Versions
-* **More Powerful Version:** This is just the small project. The more powerful version is available to anyone who wants it by **paying me some money**.
+* **More Powerful Version:** This is just the small project. The more powerful version is available to anyone who wants it by **paying me some money**. 
 * **Custom Development:** You can develop the version you want. This is just the baseline and of course it can be adapted to your necessities (**I can do it for you** if you don't have the time, if you pay me of course).
 * Just if you ask for some crazy difficult things I may not be able to do them so ask and I will tell you if im able to do them.
 
 ---
-
+### Ampliation of future versions
+When I have time and want to do it I plan on adding some more crazy things that will make a whole lotta money: 
+* making the resale evaluator much more powerfull by making it able to analyze second-hand markets with webscraping apis and some crazy shit I dont really understand.
+* seeing if by making webstores or more things it can make more money. to give the user the best possible way of resaling.
+* being able to give you the price you have to put on the good for it to be sold at the price that maximizes the time value, your preferences (if for example you need to sale quickly or if you can wait to maximize profits) and the proper value of money.
+* analyzing the risk of every product to be able to adapt for the risk adversity of every user.
+* making it work all alone and automatically, by talking to the clients by itself, without the need to talk with anyone.
+I have lots of ideas, imagine if these are what im sharing what I have in ind jajajja. If you wanna work together Im all into it to make money and learn.
+---
 ##  Conclusion
 
 In conclusion, we have a program that is able to make accounts **much easier and automated**. 
