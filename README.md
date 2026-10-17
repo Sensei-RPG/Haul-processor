@@ -1,4 +1,4 @@
-# Haul-processor
+## Haul-processor
 # Product Analyzer & Resale Predictor
 
 This project is for all those who buy from **chinese agents** and want to have a clear and easy way to:
@@ -49,5 +49,5 @@ Not only that, it has the possibility of becoming a **private and free analyst**
 
 ---
 
-## 💬 Feedback
+## Feedback
 Lastly, if you have any recommendations **feel free to share them**.
